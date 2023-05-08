@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://NazarSak.github.io/goit-js-hw-09",
+  "homepage": "https:/vasyl94.github.io/Home-Work-js-9",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
+    "build": "parcel build src/*.html --public-url /Home-Work-js-9/"
   },
   "repository": {
     "type": "git",
